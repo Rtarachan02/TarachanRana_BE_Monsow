@@ -1,0 +1,123 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "answer": "Paris",
+      "difficulty_level": "Easy",
+      "tags": ["Geography", "History"]
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "answer": "Mitochondria",
+      "difficulty_level": "Medium",
+      "tags": ["Biology"]
+    },
+    {
+      "question": "What is the boiling point of water in Celsius?",
+      "answer": "100",
+      "difficulty_level": "Easy",
+      "tags": ["Chemistry"]
+    },
+    {
+      "question": "What is the main programming language used for building web applications?",
+      "answer": "JavaScript",
+      "difficulty_level": "Medium",
+      "tags": ["Programming", "Web Development"]
+    },
+    {
+      "question": "What is the square root of 25?",
+      "answer": "5",
+      "difficulty_level": "Easy",
+      "tags": ["Mathematics"]
+    },
+    {
+      "question": "Who is the author of 'To Kill a Mockingbird'?",
+      "answer": "Harper Lee",
+      "difficulty_level": "Medium",
+      "tags": ["Literature"]
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "answer": "H2O",
+      "difficulty_level": "Easy",
+      "tags": ["Chemistry"]
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answer": "Jupiter",
+      "difficulty_level": "Easy",
+      "tags": ["Astronomy"]
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "answer": "Tokyo",
+      "difficulty_level": "Easy",
+      "tags": ["Geography", "History"]
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "answer": "Leonardo da Vinci",
+      "difficulty_level": "Medium",
+      "tags": ["Art", "History"]
+    },
+    {
+      "question": "What is the full form of 'DNA'?",
+      "answer": "Deoxyribonucleic Acid",
+      "difficulty_level": "Medium",
+      "tags": ["Biology"]
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "answer": "Au",
+      "difficulty_level": "Easy",
+      "tags": ["Chemistry"]
+    },
+    {
+      "question": "Who is known as the 'Father of Computer Science'?",
+      "answer": "Alan Turing",
+      "difficulty_level": "Medium",
+      "tags": ["Computer Science", "History"]
+    },
+    {
+      "question": "What is the main component of the Earth's atmosphere?",
+      "answer": "Nitrogen",
+      "difficulty_level": "Medium",
+      "tags": ["Geography", "Science"]
+    },
+    {
+      "question": "What is the currency of the United Kingdom?",
+      "answer": "Pound Sterling",
+      "difficulty_level": "Easy",
+      "tags": ["Economics", "Geography"]
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "answer": "William Shakespeare",
+      "difficulty_level": "Medium",
+      "tags": ["Literature", "History"]
+    },
+    {
+      "question": "What is the chemical symbol for iron?",
+      "answer": "Fe",
+      "difficulty_level": "Easy",
+      "tags": ["Chemistry"]
+    },
+    {
+      "question": "What is the speed of light in a vacuum?",
+      "answer": "299,792,458 meters per second",
+      "difficulty_level": "Hard",
+      "tags": ["Physics"]
+    },
+    {
+      "question": "What is the largest mammal?",
+      "answer": "Blue whale",
+      "difficulty_level": "Medium",
+      "tags": ["Biology"]
+    },
+    {
+      "question": "Who is the current President of the United States?",
+      "answer": "Joe Biden",
+      "difficulty_level": "Easy",
+      "tags": ["Politics", "History"]
+    }
+  ]
+  

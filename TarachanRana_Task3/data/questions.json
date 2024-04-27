@@ -1,0 +1,242 @@
+[
+    {
+        "question": "What is polymorphism in object-oriented programming?",
+        "difficulty_level": "Intermediate",
+        "tags": ["Programming", "Object-Oriented Programming"]
+    },
+    {
+        "question": "Explain the concept of recursion.",
+        "difficulty_level": "Intermediate",
+        "tags": ["Programming", "Algorithms"]
+    },
+    {
+        "question": "What is the difference between SQL and NoSQL databases?",
+        "difficulty_level": "Intermediate",
+        "tags": ["Database", "SQL", "NoSQL"]
+    },
+    {
+        "question": "What is the difference between list and tuple in Python?",
+        "difficulty_level": "Beginner",
+        "tags": ["Python", "Data Structures"]
+    },
+    {
+        "question": "What is the difference between GET and POST methods in HTTP?",
+        "difficulty_level": "Beginner",
+        "tags": ["Web Development", "HTTP"]
+    },
+    {
+        "question": "Explain the concept of normalization in databases.",
+        "difficulty_level": "Intermediate",
+        "tags": ["Database", "Normalization"]
+    },
+    {
+        "question": "What are the advantages and disadvantages of microservices architecture?",
+        "difficulty_level": "Advanced",
+        "tags": ["Software Architecture", "Microservices"]
+    },
+    {
+        "question": "What is Big O notation and why is it important in algorithms?",
+        "difficulty_level": "Intermediate",
+        "tags": ["Algorithms", "Big O Notation"]
+    },
+    {
+        "question": "What is the difference between a stack and a queue?",
+        "difficulty_level": "Beginner",
+        "tags": ["Data Structures", "Stacks", "Queues"]
+    },
+    {
+        "question": "Explain the concept of virtual memory in operating systems.",
+        "difficulty_level": "Advanced",
+        "tags": ["Operating Systems", "Virtual Memory"]
+    },
+    {
+        "question": "What is the role of a constructor in object-oriented programming?",
+        "difficulty_level": "Beginner",
+        "tags": ["Programming", "Object-Oriented Programming", "Constructors"]
+    },
+    {
+        "question": "What is the difference between encryption and hashing?",
+        "difficulty_level": "Intermediate",
+        "tags": ["Cryptography", "Encryption", "Hashing"]
+    },
+    {
+        "question": "Explain the concept of inheritance in object-oriented programming.",
+        "difficulty_level": "Intermediate",
+        "tags": ["Programming", "Object-Oriented Programming", "Inheritance"]
+    },
+    {
+        "question": "What is the difference between TCP and UDP?",
+        "difficulty_level": "Intermediate",
+        "tags": ["Networking", "TCP", "UDP"]
+    },
+    {
+        "question": "Explain the concept of agile software development.",
+        "difficulty_level": "Intermediate",
+        "tags": ["Software Development", "Agile"]
+    },
+    {
+        "question": "What is the role of a primary key in a database table?",
+        "difficulty_level": "Beginner",
+        "tags": ["Database", "Primary Key"]
+    },
+    {
+        "question": "What are the different types of joins in SQL?",
+        "difficulty_level": "Intermediate",
+        "tags": ["Database", "SQL", "Joins"]
+    },
+    {
+        "question": "What is the difference between a function and a method in Python?",
+        "difficulty_level": "Beginner",
+        "tags": ["Python", "Functions", "Methods"]
+    },
+    {
+        "question": "Explain the concept of garbage collection in programming languages.",
+        "difficulty_level": "Intermediate",
+        "tags": ["Programming", "Garbage Collection"]
+    },
+    {
+        "question": "What is the difference between synchronous and asynchronous programming?",
+        "difficulty_level": "Intermediate",
+        "tags": ["Programming", "Asynchronous Programming", "Synchronous Programming"]
+    },
+    {
+        "question": "What is the role of a foreign key in a database table?",
+        "difficulty_level": "Beginner",
+        "tags": ["Database", "Foreign Key"]
+    },
+    {
+        "question": "What are the advantages of using version control systems?",
+        "difficulty_level": "Intermediate",
+        "tags": ["Version Control", "Git"]
+    },
+    {
+        "question": "Explain the concept of multithreading.",
+        "difficulty_level": "Intermediate",
+        "tags": ["Programming", "Multithreading"]
+    },
+    {
+        "question": "What is the difference between HTTP and HTTPS?",
+        "difficulty_level": "Beginner",
+        "tags": ["Web Development", "HTTP", "HTTPS"]
+    },
+    {
+        "question": "Explain the concept of object-relational mapping (ORM).",
+        "difficulty_level": "Intermediate",
+        "tags": ["Database", "ORM"]
+    },
+    {
+        "question": "What are the benefits of using Docker containers?",
+        "difficulty_level": "Intermediate",
+        "tags": ["Docker", "Containerization"]
+    },
+    {
+        "question": "Explain the concept of binary search.",
+        "difficulty_level": "Intermediate",
+        "tags": ["Algorithms", "Binary Search"]
+    },
+    {
+        "question": "What is the role of a reverse proxy server?",
+        "difficulty_level": "Intermediate",
+        "tags": ["Networking", "Reverse Proxy"]
+    },
+    {
+        "question": "Explain the concept of XSS (Cross-Site Scripting) attacks.",
+        "difficulty_level": "Intermediate",
+        "tags": ["Security", "XSS"]
+    },
+    {
+        "question": "What is the role of a load balancer in a distributed system?",
+        "difficulty_level": "Intermediate",
+        "tags": ["Networking", "Load Balancer"]
+    },
+    {
+        "question": "Explain the concept of agile software development.",
+        "difficulty_level": "Intermediate",
+        "tags": ["Software Development", "Agile"]
+    },
+    {
+        "question": "What is the difference between black-box testing and white-box testing?",
+        "difficulty_level": "Intermediate",
+        "tags": ["Software Testing", "Black-Box Testing", "White-Box Testing"]
+    },
+    {
+        "question": "What is the difference between a thread and a process?",
+        "difficulty_level": "Intermediate",
+        "tags": ["Operating Systems", "Threads", "Processes"]
+    },
+    {
+        "question": "Explain the concept of cross-platform development.",
+        "difficulty_level": "Intermediate",
+        "tags": ["Software Development", "Cross-Platform Development"]
+    },
+    {
+        "question": "What is the difference between unit testing and integration testing?",
+        "difficulty_level": "Intermediate",
+        "tags": ["Software Testing", "Unit Testing", "Integration Testing"]
+    },
+    {
+        "question": "Explain the concept of asynchronous communication.",
+        "difficulty_level": "Intermediate",
+        "tags": ["Networking", "Asynchronous Communication"]
+    },
+    {
+        "question": "What are the advantages and disadvantages of using RESTful APIs?",
+        "difficulty_level": "Intermediate",
+        "tags": ["Web Development", "RESTful APIs"]
+    },
+    {
+        "question": "Explain the concept of deadlock in operating systems.",
+        "difficulty_level": "Intermediate",
+        "tags": ["Operating Systems", "Deadlock"]
+    },
+    {
+        "question": "What is the difference between a monolithic architecture and a microservices architecture?",
+        "difficulty_level": "Intermediate",
+        "tags": ["Software Architecture", "Monolithic Architecture", "Microservices Architecture"]
+    },
+    {
+        "question": "Explain the concept of cloud computing.",
+        "difficulty_level": "Intermediate",
+        "tags": ["Cloud Computing"]
+    },
+    {
+        "question": "What are the benefits of using continuous integration/continuous deployment (CI/CD) pipelines?",
+        "difficulty_level": "Intermediate",
+        "tags": ["DevOps", "CI/CD"]
+    },
+    {
+        "question": "Explain the concept of object-oriented analysis and design (OOAD).",
+        "difficulty_level": "Intermediate",
+        "tags": ["Software Development", "OOAD"]
+    },
+    {
+        "question": "What is the role of a firewall in network security?",
+        "difficulty_level": "Intermediate",
+        "tags": ["Security", "Firewall"]
+    },
+    {
+        "question": "Explain the concept of session management in web applications.",
+        "difficulty_level": "Intermediate",
+        "tags": ["Web Development", "Session Management"]
+    },
+    {
+        "question": "What is the role of a package manager in software development?",
+        "difficulty_level": "Intermediate",
+        "tags": ["Software Development", "Package Manager"]
+    },
+    {
+        "question": "Explain the concept of event-driven programming.",
+        "difficulty_level": "Intermediate",
+        "tags": ["Programming", "Event-Driven Programming"]
+    },
+    {
+        "question": "What is the difference between a framework and a library?",
+        "difficulty_level": "Intermediate",
+        "tags": ["Software Development", "Framework", "Library"]
+    },
+    {
+        "question": "Explain the concept of data normalization in databases.",
+        "difficulty_level": "Intermediate",
+        "tags": ["Database", "Normalization"]
+    }
+]
